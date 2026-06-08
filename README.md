@@ -12,9 +12,9 @@ FoodScape is an Android application designed to facilitate food donations to NGO
 <img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-153839.FoodScape.png" width="250" height="500" alt="screenshot 1" />
 <img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-153846.FoodScape.png" width="250" height="500" alt="screenshot 2" />
 <img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-153852.FoodScape.png" width="250" height="500" alt="screenshot 3" />
-<img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-153852.FoodScape.png" width="250" height="500" alt="screenshot 4" />
+<img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-153858.FoodScape.png" width="250" height="500" alt="screenshot 4" />
 <img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-154010.FoodScape.png" width="250" height="500" alt="screenshot 5" />
 <img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-154030.FoodScape.png" width="250" height="500" alt="screenshot 6" />
-<img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-154030.FoodScape.png" width="250" height="500" alt="screenshot 7" />
+<img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-154152.FoodScape.png" width="250" height="500" alt="screenshot 7" />
 <img src="https://github.com/siyabimtiparkar0705/Food-Scape-Food-Donation-Android-App/blob/main/Screenshot/Screenshot_20260606-154221.FoodScape.png" width="250" height="500" alt="screenshot 8" />
 
